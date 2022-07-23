@@ -1,0 +1,17 @@
+*{
+    font-family: "Yeseva One", sans-serif;
+    text-align: left;
+}
+
+body{
+    background-color: #282a36;
+}
+
+.text{
+    color: #f8f8f2;
+}
+
+.parent{
+    width: 750px;
+    margin: auto;
+}
