@@ -1,14 +1,19 @@
 *{
     font-family: "Yeseva One", sans-serif;
-    text-align: left;
+    text-align: center;
 }
 
 body{
     background-color: #282a36;
 }
 
-.text{
+.text, li{
     color: #f8f8f2;
+    text-align: left;
+}
+
+#header{
+    text-align: center;
 }
 
 .parent{
